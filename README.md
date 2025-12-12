@@ -43,11 +43,11 @@ To understand and help develop the UV instrument, and to get hands-on experience
 ---
 
 ## 🧑‍🏫 Supervisor
-**Mr. Sanjeev M**  
-PRL, India
+**Mr. Sanjeev Kumar Mishra**  
+Physical Research Laboratory, Ahmedabad
 
 ---
 
-## 👨‍🎓 Student
+## 👨‍🎓 Trainee
 *Meet Jain*  
 B.Tech Final Year  
